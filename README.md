@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://emoji.slack-edge.com/T01SG0DSEQL/notimpressed/5a772c9c149f28bb.png)<img src=https://user-images.githubusercontent.com/17474078/186622018-27fc0c31-758b-4c9b-8f84-e8f254e27953.png width=400 />
 
 <!--
 **assafavital/assafavital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assafavital&show_icons=true&theme=cobalt&border_radius=5&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assafavital&layout=compact&langs_count=5&theme=cobalt&border_radius=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=assafavital&theme=cobalt)](https://git.io/streak-stats)
+
 -->
